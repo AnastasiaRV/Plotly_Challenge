@@ -1,10 +1,10 @@
 # Plotly Challenge - Belly Button Biodiversity
 
-This project built an interactive dashboard to explore a data set in JSON. The data set is from a science project called [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/). 
+Project focus was to build an interactive dashboard to explore a data set in JSON. The data set is from a science project called [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/). 
 This project was developed in JavaScript using Plotly.JS and D3.JS.
 
 ## Publish
-If you want to see this project, then click [here](https://anastasiarv.github.io/Plotly_Challenge/).
+Check out the interactive dashboard [here](https://anastasiarv.github.io/Plotly_Challenge/).
 
 ## Webpage and coding
 * The IDs are selected dynamically from the data set from [JSON file](/JS/data/samples.json).<br>
